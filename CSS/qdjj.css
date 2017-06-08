@@ -1,0 +1,131 @@
+body{
+	background-color: #0d7792;
+	font-size: 10px;
+	line-height: 1.5em;
+}
+/*设置头部*/
+.body1{
+	border-radius: 30px;
+	background-color:#fff;
+	width: 710px;
+	margin: auto;
+}
+
+.body2{
+	width: 650px;
+	margin: auto;
+}
+
+.hr1{
+	width: 810px;
+	height: 82px;
+	position: relative;
+}
+
+.hr2{
+	width: 270px;
+	height: 82px;
+	margin: 3px 0;
+}
+
+#logo1{
+	float: left;
+}
+
+#user1{
+	float: left;
+	position: absolute;
+	right: 180px;
+}
+
+#user1 p a{
+	color: rgb(255, 0, 153);
+	text-decoration: none;
+	display: block;
+	float: left;
+	margin-left: 15px;
+}
+
+p{
+	margin:0;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+/*设置表格*/
+.table1{
+	border-collapse: collapse;
+	padding: 0 8px;
+}
+
+#table_table1{
+	border: 1px solid #bdbbbb;
+}
+
+#table_table1_first{
+	text-align: center;
+
+}
+
+#table_center{
+	height: 65px;
+	font-size: 18px;
+    font-weight: bold;
+    line-height: 200%;
+}
+
+#table_first{
+	font-size: 18px;
+    font-weight: bold;
+    line-height: 200%;
+}
+
+.thead1{
+	background-color: #EEEEEE;
+	padding-left:1em; 
+}
+.td-left{
+	width: 132px;
+	text-align: right;
+}
+.td-right{
+	width: 496px;
+	color: #0000ff;
+}
+
+#head2{
+	text-align: center;
+}
+
+.normal_input{
+	width: 239px;
+}
+
+#td_subject{
+	color:#333333;
+}
+
+#td_range{
+	color:#333333;
+}
+
+#td_last{
+	height: 81px;
+	position: relative;
+}
+
+#td_last_submit{
+	position: absolute;
+	top:50%;
+	left: 50%;
+	margin-left: -13.3px；
+	margin-top:-7.5px;
+}
+
+#last_block{
+	height: 60px;
+}
+
+#last_word{
+	color: #a9a9a9;
+}
